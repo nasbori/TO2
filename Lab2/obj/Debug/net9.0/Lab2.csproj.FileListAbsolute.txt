@@ -1,0 +1,14 @@
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/bin/Debug/net9.0/Lab2.deps.json
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/bin/Debug/net9.0/Lab2.dll
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/bin/Debug/net9.0/Lab2.pdb
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/obj/Debug/net9.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/obj/Debug/net9.0/Lab2.AssemblyInfoInputs.cache
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/obj/Debug/net9.0/Lab2.AssemblyInfo.cs
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/obj/Debug/net9.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/obj/Debug/net9.0/Lab2.dll
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/obj/Debug/net9.0/refint/Lab2.dll
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/obj/Debug/net9.0/Lab2.pdb
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/obj/Debug/net9.0/ref/Lab2.dll
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/bin/Debug/net9.0/Lab2
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/bin/Debug/net9.0/Lab2.runtimeconfig.json
+/Users/anastasiaboricevskaa/Downloads/ТО2/Lab2/obj/Debug/net9.0/Lab2.genruntimeconfig.cache
