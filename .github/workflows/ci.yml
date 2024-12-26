@@ -47,4 +47,4 @@ jobs:
       # Шаг 3: Развертывание на сервер 
       - name: Deploy to server
         run: |
-          ssh your-server "cd /path/to/project && dotnet publish -c Release -o ./out && your-deployment-command"
+          ssh your-server "cd /home/nasbori/TO2 && dotnet publish -c Release -o ./out && your-deployment-command"
