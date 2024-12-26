@@ -17,7 +17,7 @@ jobs:
           dotnet-version: '9.0'  
       # Шаг 3: Восстановление зависимостей проекта
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore TO2.sln
       # Шаг 4: Сборка проекта
       - name: Build project
         run: dotnet build --configuration Release
