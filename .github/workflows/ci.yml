@@ -17,7 +17,7 @@ jobs:
           dotnet-version: '9.0'  
       # Шаг 3: Восстановление зависимостей проекта
       - name: Restore dependencies
-        run: dotnet restore TO2/Lab2.Tests/Lab2.Tests.csproj
+        run: dotnet restore Lab2.Tests.csproj
       # Шаг 4: Сборка проекта
       - name: Build project
         run: dotnet build --configuration Release
