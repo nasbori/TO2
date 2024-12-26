@@ -1,0 +1,7 @@
+Lab2.Tests.IntegrationTests.TestComputeFunctionPositiveX
+Lab2.Tests.IntegrationTests.TestComputeFunctionNegativeX
+Lab2.Tests.UtilityFunctionsTests.TestSin
+Lab2.Tests.UtilityFunctionsTests.TestCos
+Lab2.Tests.UtilityFunctionsTests.TestLn
+Lab2.Tests.UtilityFunctionsTests.TestSinPlusCosSquared
+Lab2.Tests.UtilityFunctionsTests.TestSinMinusCosAbsolute
